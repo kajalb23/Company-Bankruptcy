@@ -70,14 +70,7 @@ This project implements and compares two classification algorithms — Logistic 
 
 ---
 
-## Project Structure
-
-├── data/
-│ └── bank.csv
-├── notebooks/
-│ ├── logistic_regression_bankruptcy.ipynb
-│ └── svm_bankruptcy_prediction.ipynb
-├── README.md
+<pre><code>## Project Structure ``` ├── data/ │ └── bank.csv ├── notebooks/ │ ├── logistic_regression_bankruptcy.ipynb │ └── svm_bankruptcy_prediction.ipynb ├── README.md ``` </code></pre>
 
 
 ---
