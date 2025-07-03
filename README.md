@@ -1,4 +1,6 @@
-# Company Bankruptcy Prediction using Logistic Regression and Support Vector Machine (SVM)
+# Company Bankruptcy Prediction :
+
+###  Using Logistic Regression and Support Vector Machine (SVM)
 
 This project implements and compares two classification algorithms — Logistic Regression and Support Vector Machine (SVM) — for predicting company bankruptcy based on financial indicators. The objective is to assist in early risk identification by building models that can classify companies as **bankrupt (1)** or **not bankrupt (0)** using structured financial data.
 
